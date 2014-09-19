@@ -18,7 +18,7 @@ Almost production ready. Please visit http://outsideit.net/nagios-plugins/check-
 4) Configure your service in Nagios:  
 	- Make use of the above created command  
 	- Make sure you pass at least one argument
-	- Example: '-H server.fqdn -wl 2 -cl 0 -wh 10 -ch 15
+	- Example: '-H server.fqdn -wl 2 -cl 0 -wh 10 -ch 15'
 
 ### Help
 
