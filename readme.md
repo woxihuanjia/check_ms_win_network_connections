@@ -32,9 +32,13 @@ http://exchange.nagios.org/directory/Plugins/Operating-Systems/Windows-NRPE/Chec
 ### History
 
 19/08/2014 => Testing 
+
 21/08/2014 => Output edit, perfdata 
+
 24/08/2014 => Implemented port, ip, process filters 
+
 18/09/2014 => Implemented wl, cl, wh and wh parameters for tcp 
+
 
 ### Copyright:
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public 
