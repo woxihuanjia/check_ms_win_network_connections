@@ -1,4 +1,4 @@
-# Nagios plugin to check TCP and UDP connections on a MS Windows Server
+# Nagios plugin to check TCP and UDP connections with Netstat on a MS Windows Server
 
 ### Idea
 
@@ -7,25 +7,19 @@ returning warning or critical alert if configured threshold for TCP connections 
 
 ### Status
 
-Poduction ready. Please visit http://outsideit.net/check_ms_netstat for more information.
+Poduction ready. Please visit http://outsideit.net/check-ms-netstat for more information.
 
 ### How To
 
-Please visit http://outsideit.net/check_ms_netstat for more information on how to use this plugin.
+Please visit http://outsideit.net/check-ms-netstat for more information on how to use this plugin.
 
 ### Help
 
-If you happen to find a bug, please create an issue on GitHub. Please include console's output and reproduction 
-step in your bug report. 
+In case you find a bug or have a feature request, please make an issue on GitHub.
 
 ### On Nagios Exchange
 
 http://exchange.nagios.org/directory/Plugins/Operating-Systems/Windows-NRPE/Check-MS-Netstat-Connections/details
-
-### History
-
-Please visit http://outsideit.net/check_ms_netstat to see the history of this plugin.
-
 
 ### Copyright
 
