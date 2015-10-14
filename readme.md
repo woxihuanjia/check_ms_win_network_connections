@@ -1,18 +1,23 @@
-# Nagios plugin to check TCP and UDP connections with Netstat on a Microsoft Windows Server
+# Nagios plugin to check number of connections with Netstat on a Microsoft Windows host
 
 ### Idea
 
-This Powershell script will loop through all Netstat connections on a Microsoft Windows Server, apply filters passed 
-as argument, such as an ip address, port or process name and return total count of each connection state, alerting if 
-warning or critical threshold for TCP connections is reached.
+Check MS Windows network connections by using this Powershell script to get all connections. The script will loop 
+through all Netstat connections on a Microsoft Windows Server, apply filters passed as argument, such as an ip 
+address, port or process name and return total count of each connection state, alerting if warning or critical 
+threshold for TCP connections is reached.
+
+### Screenshot
+
+![Network Connections Highcharts Graph 01](/../screenshots/check-ms-win-network-connections-graph-01.png?raw=true "Network Connections Highcharts Graph 01")
 
 ### Status
 
-Poduction ready. Please visit http://outsideit.net/check-ms-netstat for more information.
+Poduction ready.
 
 ### How To
 
-Please visit http://outsideit.net/check-ms-netstat for more information on how to use this plugin.
+Please visit http://outsideit.net/check-ms-win-network-connections for more information on how to use this plugin.
 
 ### Help
 
@@ -20,7 +25,7 @@ In case you find a bug or have a feature request, please make an issue on GitHub
 
 ### On Nagios Exchange
 
-http://exchange.nagios.org/directory/Plugins/Operating-Systems/Windows-NRPE/Check-MS-Netstat-Connections/details
+https://exchange.nagios.org/directory/Plugins/Operating-Systems/Windows-NRPE/Check-Microsoft-Windows-Network-Connections/details
 
 ### Copyright
 
