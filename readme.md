@@ -7,7 +7,7 @@ through all Netstat connections on a Microsoft Windows Server, apply filters pas
 address, port or process name and return total count of each connection state, alerting if warning or critical 
 threshold for TCP connections is reached.
 
-### Screenshot
+### Screenshots
 
 ![Network Connections Highcharts Graph 01](/../screenshots/check-ms-win-network-connections-graph-01.png?raw=true "Network Connections Highcharts Graph 01")
 
