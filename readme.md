@@ -17,7 +17,7 @@ Poduction ready.
 
 ### How To
 
-Please visit http://outsideit.net/check-ms-win-network-connections for more information on how to use this plugin.
+Please visit https://outsideit.net/monitoring-windows-network-connections/ for more information on how to use this plugin.
 
 ### Help
 
